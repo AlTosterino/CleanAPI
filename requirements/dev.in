@@ -1,0 +1,15 @@
+-r ./prod.in
+
+autoflake
+black
+isort
+mypy
+mypy
+pytest
+pytest-asyncio
+pytest-cov
+pytest-xdist
+types-certifi
+types-python-dateutil
+types-requests
+types-six

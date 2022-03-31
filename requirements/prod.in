@@ -1,0 +1,4 @@
+attrs
+fastapi
+inject
+uvicorn
