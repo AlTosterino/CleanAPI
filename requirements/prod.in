@@ -1,4 +1,6 @@
 attrs
 fastapi
 inject
+python-rapidjson
+tortoise-orm
 uvicorn
